@@ -1,0 +1,14 @@
+names:
+- Paper
+- Rock
+- Scissors
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: rock-paper-scissors-wua3t
+  url: https://universe.roboflow.com/yolov8-ajpvj/rock-paper-scissors-wua3t/dataset/1
+  version: 1
+  workspace: yolov8-ajpvj
+test: /content/Rock-Paper-Scissors-1/test/images
+train: /content/Rock-Paper-Scissors-1/train/images
+val: /content/Rock-Paper-Scissors-1/valid/images

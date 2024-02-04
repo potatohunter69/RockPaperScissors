@@ -19,5 +19,5 @@ To get started with Rock-Paper-Scissors Vision, follow these simple steps:
 
 1. **Visit these links:**
 
-   * for real-time detection: https://app.roboflow.com/yolov8-ajpvj/rock-paper-scissors-wua3t/1
+   * for real-time detection: https://app.roboflow.com/yolov8-ajpvj/sami-rockpaperscissors/1
    * for just single image detection: https://detect.roboflow.com/?model=rock-paper-scissors-wua3t&version=1&api_key=uUEXVVgnReFzPoyeowwb
